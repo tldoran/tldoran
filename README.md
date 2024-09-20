@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Oran
 - 📖 I'm a student at University Of Limerick
 - 💻 Studying Immersive Software Engineering [ISE]
-- ✅ Check out my Social medias;
-- Ig : _orandennehy
-- LinkedIn : orandennehy
 - 🌊 Keep rocking in the free world !
 
 
